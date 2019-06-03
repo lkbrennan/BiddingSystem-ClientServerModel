@@ -1,0 +1,10 @@
+Chair
+TV
+Table
+Computer
+Lamp
+Bed
+Kettle
+Radio
+Mona Lisa
+3 Bed House
